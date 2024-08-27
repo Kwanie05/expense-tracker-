@@ -1,0 +1,12 @@
+th {
+    color: brown;
+    font-style: oblique;
+    font-size: large;
+    text-align:start
+}
+
+td {
+    color: black;
+    font-style: italic;
+    font-size: medium;
+}
